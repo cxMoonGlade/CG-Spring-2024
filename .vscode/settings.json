@@ -5,5 +5,6 @@
         "*.java": "java",
         "*.cpp": "cpp",
         "stdexcept": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }
